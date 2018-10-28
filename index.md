@@ -3,9 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Cool
+title: The Registan Square
 exclude: true
 ---
-
-## noice
 ![Registan](pictures/Registan.jpg)
