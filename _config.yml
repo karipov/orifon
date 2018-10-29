@@ -17,7 +17,6 @@ plugins:
 
 # Header settings
 header_pages:
-  - history.md
   - official_documents.md
   - publications.md
   - history.md
