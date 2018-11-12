@@ -8,6 +8,8 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: ""
 url: "http://orifon.com"
 github_username: karipov
+wikipedia_ru: Дом-музей_Орифа_Гульхани
+wikipedia_page_name: Home-Museum
 
 # Build settings
 markdown: kramdown
