@@ -7,6 +7,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   Orif Gulkhany and Olimzhon Orify, and their descendants.
 baseurl: ""
 url: "http://orifon.com"
+
+# Social links
 github_username: karipov
 wikipedia_ru: Дом-музей_Орифа_Гульхани
 wikipedia_page_name: Home-Museum
@@ -23,3 +25,6 @@ header_pages:
   - publications.md
   - history.md
   - multimedia.md
+
+# Analytics
+google_analytics: UA-108885235-2
