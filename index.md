@@ -9,9 +9,9 @@ title: ""
 ## Our beautiful museum ##
 The home-museum of Orif Gulkhany is one of the few of its kind. You will find more than 2500 items, such as articles from the day to day life in the late 19th and early 20th century, valuable manuscripts and old books on exhibition.
 
-![The Museum](assets/museum/landscape_view.jpg)
+![The Museum](resources/museum/landscape_view.jpg)
 
 ## The magnificent garden ##
 There are also over 200 different species of plants found in the gardens of Orif Gulkhany's home-museum. These are nurtured by the current owner, and grandson of Orif Gulkhany - Mukumjon Orify, as well as his wife and grandchildren.
 
-![The Garden](assets/garden/family_rightside_landscape.jpg)
+![The Garden](resources/garden/family_rightside_landscape.jpg)
