@@ -57,6 +57,11 @@ main {
 img {
   max-width: 100%;
   vertical-align: middle;
+
+  margin-top: 0;
+  margin-left: $spacing-unit;
+  margin-right: $spacing-unit;
+  margin-bottom: $spacing-unit;
 }
 
 

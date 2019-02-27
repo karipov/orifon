@@ -3,40 +3,70 @@ layout: page
 title: Publications
 ---
 
-## 1. Бонувони хонадони Гулхани ##
-<img src="resources/books/thumbs/Бонувони хонадони Гулхани.png" alt="Bonuvoni honadoni gulkhany" width="50%" height="50%" />
+## 1. Зевари дунёст набера ##
+![Nabira](resources/books/thumbs/nabira.png){: width="35%" height="35%" .align_right}
+
+
+**Year of publication:** 2018  
+**Download:** [pdf](/resources/books/pdfs/nabira.pdf)
+
+Дуввумин китоби Маликаи Бахтиёр маїмґаи
+µикоёт аз µаёти бачагон аст. Дар он аз рафтору гуфтори ворисони хурдсоли хонаводаи Гулхании Самар³андє на³л мешавад. Зимни тасвири муносибати бобо ва набера муаллиф дар
+тарбияти дурусти бачагон чє андоза муµим будани муµити солими оилавиро ифода менамояд.
+Китоби мазкур барои кґдакони синни
+томактабє, хонандагони синфµои ибтидоє, падару модарон ва ононе, ки бо тарбияи насли
+наврас сару кор доранд, пешбинє шудааст.
+
+{:style="clear: right"}
+<br />
+
+
+
+## 2. Бонувони хонадони Гулхани ##
+![Bonuvoni honadoni gulkhany](resources/books/thumbs/Бонувони хонадони Гулхани.png){: width="35%" height="35%" .align_right}
+
 
 **Year of publication:** 2015
 
 Ушбу китоб шоир, маърифатпарвар - Гулханий хонадони санамлари ҳақида ҳикоя қилади. Мазкур китобда оддий, хокисор, билимга чанқоқ уй бекаларининг хаётларидаги ҳақиқий воқеа-ходисалари келтирилган. Ӯйлаймизки, бу санамларнинг хулқ-атвори, муомаласи, турли вазиятларда ӯзини тута билиши, одоби ҳар биримиз учун ибрат бӯла олади.
 Мазкур китоб тарих, этнография, адабиёт ва юртимиз қадриятлари, урф-одатларига қизиқувчи барча китобхонлар учун мӯлжалланган.
 
+{:style="clear: right"}
 <br />
 
-## 2. Selected Uzbek Poetry ##
-<img src="resources/books/thumbs/Selected uzbek poetry.png" alt="Selected Uzbek Poetry" width="50%" height="50%" />
+
+
+## 3. Selected Uzbek Poetry ##
+![Selected Uzbek Poetry](resources/books/thumbs/Selected uzbek poetry.png){: width="35%" height="35%" .align_right}
 
 **Year of publication:** 2013
 
 This collection of poems contain manifold genres of Uzbek Poetry: arooz, lyrics, romantic poems, songs, an epic poem, dramatic poem, aphorisms and children's poetry. Gulkhany's poems can be found from pages 59 to 69.
 
+{:style="clear: right"}
 <br />
 
-## 3. Бир кошонаки... ##
-<img src="resources/books/thumbs/Бир кошонаки....png" alt="Bir koshonaki" width="50%" height="50%" />
+
+
+## 4. Бир кошонаки... ##
+![Bir koshonaki](resources/books/thumbs/Бир кошонаки....png){: width="35%" height="35%" .align_right}
 
 **Year of Publication:** 2004
 
 Самарқандда шундай гӯшалар, сулолалар борки, халқимиз улар билан фахрланади. Гулхайнийлар сулоласи ана шундай хонадонлардан бири хисобланади. Боболар анъаналарига содиқлик, улар бошлаган ишларни давом эттириш, хусусан, меъморчилик, боғдорчилик борасидаги ибратли ишлар...
 Ушбу масалалар мазкур китобчада батафсил баён этилгани билан эътиборга лойиқдир.
 
+{:style="clear: right"}
 <br />
 
-## 4. Давру даврон бизники ##
-<img src="resources/books/thumbs/Давру даврон бизники.png" alt="Davru davron bizniki" width="50%" height="50%" />
+
+
+## 5. Давру даврон бизники ##
+![Davru davron bizniki](resources/books/thumbs/Давру даврон бизники.png){: width="35%" height="35%" .align_right}
 
 **Year of Publication:** 1980
 
 Маърифатпарвар шоир Ориф Гулханий инқилобдан аввал Аҳмад Дониш, Саддридин Айний бошчилигидаги тараққийпарвар зиёлилар суҳбатидан бахраманд бӯлган, ӯзи ҳам зуллисонайнлик анъанасига амал қилиб, ӯзбек ва тожик тилларида ғазаллар, мухаммаслар битган. Октябрь инқилобидан кейин Ориф Гулханий янги тузум ғалабаларини мустаҳкамлаш учун янги маориф ва маданият учун хизмат қилди. Гулханий шеърлари теран маънодорлиги, мусиқий охангдорлиги билан ажралиб туради.
 
+{:style="clear: right"}
 <br />
